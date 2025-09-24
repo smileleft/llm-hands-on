@@ -1,1 +1,1 @@
-# llm-hands-on
+# llm-hands-on for sentence transformer
